@@ -6,7 +6,7 @@ OpenVPN is an open-source VPN solution that creates secure point-to-point or sit
 
 ---
 
-## 🔧 Basic `server.conf` Configuration
+## Basic `server.conf` Configuration
 
 ```bash
 port 1194
