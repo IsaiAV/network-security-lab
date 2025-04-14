@@ -36,3 +36,6 @@ echo "- OSSEC agent registration"
 echo "- WireGuard & OpenVPN conf setup"
 
 echo "Done. Your environment is ready to customize."
+
+You can make it executable by:
+chmod +x setup-lab.sh
