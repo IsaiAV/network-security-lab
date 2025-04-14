@@ -21,4 +21,4 @@ This page tracks the build progress of the `network-security-lab` repo. New tool
 
 ---
 
-> ✍Maintained by Isai Valdez — last updated: 04/14-25  
+> Maintained by Isai Valdez — last updated: 04/14-25  
